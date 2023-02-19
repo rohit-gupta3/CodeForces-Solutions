@@ -5,3 +5,4 @@ These are the links for the questions
 1790A-Polcarp [Question Link](https://codeforces.com/problemset/problem/1790/A)<br>
 1790B-Taisia and Dice [Question Link](https://codeforces.com/problemset/problem/1790/B)<br>
 1788A-OneAndTwo [Question Link](https://codeforces.com/problemset/problem/1788/A)
+1788B-SumOfTwoNumbers [Question Link](https://codeforces.com/problemset/problem/1788/B)
